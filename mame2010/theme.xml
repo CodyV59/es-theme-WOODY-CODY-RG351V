@@ -1,0 +1,21 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, grid">
+  <text name="nameLabel" extra="true">
+    <text>M.A.M.E. 2010</text>
+  </text>
+</view>  
+
+<view name="system">  
+
+  <text name="shortdescription" extra="true">
+    <text>Arcade Machines</text>
+  </text>
+
+  <text name="date" extra="true">
+    <text>1970's</text>
+  </text>
+ </view>
+</theme>

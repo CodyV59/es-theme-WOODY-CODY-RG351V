@@ -1,0 +1,19 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, grid">
+  <text name="nameLabel" extra="true">
+    <text>GameBoy Color</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="shortdescription" extra="true">
+   <text>8-bit Handheld</text>
+  </text>
+  <text name="date" extra="true">
+   <text>1998</text>
+  </text>
+ </view>
+</theme>

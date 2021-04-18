@@ -16,5 +16,15 @@
   <text name="date" extra="true">
    <text>1994</text>
   </text>
+
+<image name="controller" extra="true">
+        <path>./_art/controllers/${system.theme}.png</path>
+        <tile>false</tile>
+        <origin>0 0</origin>
+        <pos>0.66 0.39</pos>
+        <maxSize>0.3 0.3</maxSize>
+<rotation>-15</rotation>
+    </image>
+
  </view>
 </theme>

@@ -171,8 +171,17 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.035</fontSize>
         <lineSpacing>1.5</lineSpacing>
         <horizontalMargin>0.01</horizontalMargin>
+        <zIndex>48</zIndex>
 	<scrollSound>./_art/assets/listscroll.wav</scrollSound>
     </textlist>
+
+    <image name="snapmask" extra="true">
+        <tile>false</tile>
+        <path>./_art/snapmask.png</path>
+        <zIndex>47</zIndex>
+        <size>1 1</size>
+        <pos>0 0</pos>
+    </image>
 	
 	<helpsystem name="help">
         <pos>1 1</pos>

@@ -19,9 +19,9 @@
         <path>./_art/controllers/${system.theme}.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.65 0.79</pos>
+        <pos>0.64 0.29</pos>
         <maxSize>0.3 0.3</maxSize>
-<rotation>-15</rotation>
+<rotation>-180</rotation>
     </image>
 
  </view>

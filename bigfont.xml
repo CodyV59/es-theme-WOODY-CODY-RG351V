@@ -23,8 +23,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <include name="off" displayName="${off}">./_art/settings/controllers.xml</include>
     </subset>
 
-        <include subset="systemview" name="Standard mod" >./standard.xml</include>
-	<include subset="systemview" name="BIG GAMELIST FONT" >./bigfont.xml</include>
+
+
 
 
 <view name="system">
@@ -162,6 +162,22 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <pos>0 0</pos>
     </image>
 
+    <textlist name="gamelist">
+        <selectorColor>00000000</selectorColor>
+        <selectedColor>a4c82a</selectedColor>
+        <selectorHeight>0.06</selectorHeight>
+        <primaryColor>585858</primaryColor>
+        <secondaryColor>ac7b54</secondaryColor>
+        <fontPath>./_art/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <pos>0 0.12</pos>
+	    <size>0.319 0.8</size>
+        <fontSize>0.041</fontSize>
+        <lineSpacing>1.5</lineSpacing>
+        <horizontalMargin>0.01</horizontalMargin>
+        <zIndex>48</zIndex>
+	<scrollSound>./_art/assets/listscroll.wav</scrollSound>
+    </textlist>
 
     <image name="snapmask" extra="true">
         <tile>false</tile>

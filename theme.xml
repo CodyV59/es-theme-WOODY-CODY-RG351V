@@ -311,10 +311,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
    <view name="screen">
     <text name="clock">
-      <color>FFFFFF</color>
-      <fontSize>0.035</fontSize>
-      <pos>0.910 0.01</pos>
-      <size>0.09 0.058</size>
+      <color>FFFFFFA0</color>
+      <fontSize>0.04</fontSize>
+      <pos>0.65 0.02</pos>
+      <size>0.15 0.058</size>
       <alignment>right</alignment>
       <verticalAlignment>center</verticalAlignment>
     </text>
